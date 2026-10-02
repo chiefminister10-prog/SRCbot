@@ -10,8 +10,8 @@ from telegram.ext import (
     ContextTypes,
 )
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-OWNER_ID = int(os.environ["OWNER_ID"])
+BOT_TOKEN = os.environ["8921511767:AAGHTBE1oBEsuGUXwTtQ1hEKkB1G-xk3gOA"]
+OWNER_ID = int(os.environ["37517916"])
 
 ASK_NAME = 0
 
